@@ -24,8 +24,5 @@ class Welcome extends Application
 		//$this->render(); 
 	}
 
-	public function fuck(){
-		return 69;
-	}
 
 }

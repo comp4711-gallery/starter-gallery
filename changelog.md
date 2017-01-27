@@ -1,33 +1,19 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Jonathan Huang (Captain) & Daniel Tian (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version x.x*
+## *Version 1.0*
 
-Release Date: Jul 26, 2027
+Release Date: Jan 26, 2017
 
-## New Components
+## *Version 1.1*
 
--   controllers
+Release Date: Jan 27, 2017
 
-    -   serbian (AB)
-    
-## Updated Components
+Updating the file format. Changing from trivial to basic CI.
+- Removed all common HTML codes from the page and moved it to a template
 
--   controllers
-
-    -   german (CD)
-    -   hindi (CD)
-
--   models
-
-    -   italian (AB)
-
--   views
-
-    -   slovenian (AB)
-    -   swedish
 
 

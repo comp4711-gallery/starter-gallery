@@ -50,15 +50,14 @@ $autoload['packages'] = array();
 | 'database' library, which is somewhat of a special case.
 |
 | Prototype:
-|
 |	$autoload['libraries'] = array('database', 'email', 'session');
-|
+|$autoload['libraries'] = array('parser');
 | You can also supply an alternative library name to be assigned
 | in the controller:
 |
 |	$autoload['libraries'] = array('user_agent' => 'ua');
 */
-$autoload['libraries'] = array('parser');
+$autoload['libraries'] = array('database', 'parser');
 
 /*
 | -------------------------------------------------------------------
@@ -132,4 +131,4 @@ $autoload['language'] = array();
 |
 |	$autoload['model'] = array('first_model' => 'first');
 */
-$autoload['model'] = array();
+$autoload['model'] = array('images');

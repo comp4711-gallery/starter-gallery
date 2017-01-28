@@ -5,16 +5,6 @@
 		<title>{pagetitle}</title>
         <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<<<<<<< HEAD
-        <link rel="stylesheet" type="text/css" href="/assets/css/default.css"/>
-	</head>
-	<body>
-        <div id="container">
-			{content}
-			<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. 
-				{ci_version}</p>
-        </div>
-=======
         <link rel="stylesheet" type="text/css" href="/css/default.css"/>
 		<link rel="stylesheet" type="text/css" media="all" href="/css/reset.css" />
         <link rel="stylesheet" type="text/css" media="all" href="/css/text.css" />
@@ -43,6 +33,5 @@
 		</div>
 		<script type="text/javascript" src="/js/jquery-1.11.0.min.js"></script> 
 		<script type="text/javascript" src="/js/lightbox.min.js"></script> 
->>>>>>> 4d69b2bdd9a9d1e53dd076d306fd31d656f4714b
 	</body>
 </html>
